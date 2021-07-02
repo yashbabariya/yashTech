@@ -895,7 +895,7 @@ footer .container .footer-wrap .copyright{
 
     section.about .about_wrap h2 {
         position: relative;
-        font-size: 3rem;
+        font-size: 2.6rem;
         letter-spacing: 0.2rem;
         top: 1.5rem;
         left: 1.5rem;
@@ -931,9 +931,9 @@ footer .container .footer-wrap .copyright{
         width: 100%;
         background: rgb(131,58,180);
         background: linear-gradient(180deg, rgb(15, 121, 124) 0%, rgb(236, 26, 26) 50%, rgb(0, 0, 0) 100%);
-        background-size: 100% 170vh;
+        background-size: 100% 190vh;
         /* background-repeat: no-repeat; */
-        height: 170vh;
+        height: 190vh;
     }
 
     .service .heading{
@@ -944,7 +944,7 @@ footer .container .footer-wrap .copyright{
     
     .service .heading h1{
         position: relative;
-        left: -3.5rem;
+        left: -3.0rem;
         font-size: 4rem;
         letter-spacing: 0.5rem;
         color: rgb(2, 1, 1);
@@ -1068,7 +1068,7 @@ footer .container .footer-wrap .copyright{
     footer .container .footer-wrap .copyright {
         position: relative;
         display: flex;
-        font-size: 1.2em;
+        font-size: 1rem;
         color: var(--heaven);
         font-weight: 100;
         width: 300px;
