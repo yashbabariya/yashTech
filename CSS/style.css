@@ -931,9 +931,9 @@ footer .container .footer-wrap .copyright{
         width: 100%;
         background: rgb(131,58,180);
         background: linear-gradient(180deg, rgb(15, 121, 124) 0%, rgb(236, 26, 26) 50%, rgb(0, 0, 0) 100%);
-        background-size: 100% 190vh;
+        background-size: 100% 170vh;
         /* background-repeat: no-repeat; */
-        height: 190vh;
+        height: 170vh;
     }
 
     .service .heading{
@@ -975,6 +975,10 @@ footer .container .footer-wrap .copyright{
         box-shadow: 0 50px 20px rgb(134 112 112 / 94%);
     }
 
+    .box .content p {
+        font-size: 0.9rem;
+    }
+
     .box span::before {
         background: #cacaca;
         animation: animate 4s linear infinite;
@@ -991,7 +995,7 @@ footer .container .footer-wrap .copyright{
 
     .contact .contact_wrap h2 {
         position: relative;
-        font-size: 2rem;
+        font-size: 1.8rem;
         letter-spacing: 0.8rem;
         top: -3.5rem;
         left: 7.5rem;
@@ -1012,7 +1016,7 @@ footer .container .footer-wrap .copyright{
         width: 32rem;
         height: 34rem;
         top: 3rem;
-        left: -3rem;
+        left: -3.5rem;
     }
 
     .contact .contact-info {
@@ -1033,12 +1037,12 @@ footer .container .footer-wrap .copyright{
     }
 
     .contact .contact-info > div > div > div span:nth-child(1) {
-        font-size: 1.3em;
+        font-size: 1.1em;
         font-weight: bold;
     }
 
     .contact .contact-info > div > div > div span:nth-child(2) {
-        font-size: 1.1rem;
+        font-size: 0.9rem;
         font-weight: 100;
         letter-spacing: 0.1rem;
     }
@@ -1068,7 +1072,7 @@ footer .container .footer-wrap .copyright{
     footer .container .footer-wrap .copyright {
         position: relative;
         display: flex;
-        font-size: 1rem;
+        font-size: 1em;
         color: var(--heaven);
         font-weight: 100;
         width: 300px;
