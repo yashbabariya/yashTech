@@ -944,7 +944,7 @@ footer .container .footer-wrap .copyright{
     
     .service .heading h1{
         position: relative;
-        left: -3.0rem;
+        left: -3.6rem;
         font-size: 4rem;
         letter-spacing: 0.5rem;
         color: rgb(2, 1, 1);
@@ -952,9 +952,9 @@ footer .container .footer-wrap .copyright{
     }
 
     .service .heading h2 {
-        font-size: 1.8rem;
+        font-size: 1.4rem;
         letter-spacing: 0.8rem;
-        left: -0.9rem;
+        left: -0.5rem;
         top: -3.3rem;
         color: var(--heaven);
     }
@@ -964,7 +964,7 @@ footer .container .footer-wrap .copyright{
     }
 
     .box{
-        left: 13rem;
+        left: 12rem;
         margin-bottom: 1.5rem;
     }
 
@@ -975,8 +975,12 @@ footer .container .footer-wrap .copyright{
         box-shadow: 0 50px 20px rgb(134 112 112 / 94%);
     }
 
+    .box .content h1 {
+        font-size: 1.4rem;
+    }
+
     .box .content p {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 
     .box span::before {
